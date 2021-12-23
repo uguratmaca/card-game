@@ -1,0 +1,15 @@
+{
+  "mainChars": {
+    "scoobyDoo": {
+      "name": "Scooby Doo",
+      "imagePath": "scooby-doo.png",
+      "attributes": {
+        "clue": 1,
+        "run": 3,
+        "trap": 1,
+        "bait": 3,
+        "mystery": 0
+      }
+    }
+  }
+}
